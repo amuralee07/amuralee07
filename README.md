@@ -20,6 +20,7 @@
 ### Projects
 - **netflix-clone**: Full-stack streaming platform built with React, Node.js, and cloud services 📺
 - **todo-frenzy**: MERN stack task management application with dynamic UI updates ✔️
+- **AI-docs-assistant**: AI-powered documentation Q&A system using RAG with FastAPI and local embeddings. ✔️
 
 ---
 
