@@ -1,16 +1,27 @@
-## Hi there 👋
+# Agan Muraleetharan 👋
 
-<!--
-**amuralee07/amuralee07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science @ McMaster University
+### 📍 Toronto, Ontario
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect:** [LinkedIn](https://www.linkedin.com/)
+
+**Interests:**
+- Backend Development, Cloud Infrastructure, Distributed Systems
+- Backend: Node.js, Express.js, Spring Boot | Databases: MongoDB, MySQL, Redis
+- Building scalable systems and developer tools
+
+**Collaborate with me on projects that:**
+- Build scalable backend systems ⚙️
+- Explore cloud infrastructure and distributed systems ☁️
+- Solve challenging engineering problems 🧩
+
+### Projects
+- **netflix-clone**: Full-stack streaming platform built with React, Node.js, and cloud services 📺
+- **todo-frenzy**: MERN stack task management application with dynamic UI updates ✔️
+
+---
+
+### 📬 Let's Build Together
+Have a project idea? Let's connect.
